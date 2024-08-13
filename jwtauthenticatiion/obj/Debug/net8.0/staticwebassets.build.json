@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eIPNvu8d3UTk9osb7nkwA/BiDR+EloNEJjPvzCJZfR4=",
+  "Source": "jwtauthenticatiion",
+  "BasePath": "_content/jwtauthenticatiion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
